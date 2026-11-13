@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SuhanaAkhter
-- 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning front end web development and python -- more projects being added soon!
+- 👀 I’m interested in programming and robotics
+- 🌱 My strongest skills are front end web development and python -- more projects being added soon!
 - 📫 You can reach me at suhanaakhter922@gmail.com
